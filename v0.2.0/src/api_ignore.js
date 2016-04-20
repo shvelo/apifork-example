@@ -1,5 +1,5 @@
 /**
- * @test Ignore this block. No apiDoc.
+ * @test Ignore this block. No apifork.
  */
 
 	/**

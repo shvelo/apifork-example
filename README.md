@@ -1,10 +1,10 @@
-apidoc-example
+apifork-example
 ==============
 
-Example apidoc project (for internal tests)
+Example apifork project (for internal tests)
 
-If you are an end user, please proceed to [apidoc](https://github.com/apidoc/apidoc) or [apidoc-documentation](http://apidocjs.com).
+If you are an end user, please proceed to [apifork](https://github.com/shvelo/apifork) or [apifork-documentation](https://github.com/shvelo/apifork).
 
-Developers proceed to [apidoc-core](https://github.com/apidoc/apidoc-core).
+Developers proceed to [apifork-core](https://github.com/shvelo/apifork-core).
 
-The subdir `v0.2.0` with major and minor version represent the used apidoc-spec version.
+The subdir `v0.2.0` with major and minor version represent the used apifork-spec version.

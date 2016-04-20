@@ -20,11 +20,11 @@
     "PostError",
     "GetParam"
   ],
-  "apidoc": "0.2.0",
+  "apifork": "0.2.0",
   "generator": {
-    "name": "apidoc",
+    "name": "apifork",
     "time": "2016-02-17T09:47:50.288Z",
-    "url": "http://apidocjs.com",
+    "url": "https://github.com/shvelo/apifork",
     "version": "0.15.1"
   }
 }
